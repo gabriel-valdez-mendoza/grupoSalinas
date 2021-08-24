@@ -1,0 +1,25 @@
+﻿o Explicar la arquitectura que utilizaste en tu proyecto y la razón por la que
+decidiste utilizarla
+Utilice viper porque es la que uso en mi trabajo actual y hace que mantengas limpio el codigo mientras sigas las reglas de cada archivo. 
+
+
+o Lista de las librerías externas que utilizaste, explicándo qué hacen y la razón
+por la que la elegiste
+No use librerías externas 
+
+
+o Qué parte(s) de tu código pueden ser mejoradas si tuvieras más tiempo
+Si, seguir mejor las reglas de SOLID y viper por tiempo hice unas cosas rápidas .El diseño también puede mejorar . Más pruebas. Quitar todos los fatalerror y cambiarlos por mensajes .  Usar más el git para feutures no solo para subir la app completa 
+
+
+o Cuáles fueron los mayores problemas que encontraste en el desarrollo de
+la práctica y cómo los resolviste?
+Se me estaban borrando los shows equivocados. Puse el id del show para resolver eso. 
+
+
+o Si alguno de los puntos solicitados no los concluiste, menciona por qué. Si
+fuera por cuestión de tiempo, trata de mencionar qué estrategia llevarías a cabo para desarrollarlo
+En Favoritos no abre detalles y en dicha venta no se agrega como favorito el show. Ocupo hacer un view model para detail . Mapeo el modelo el actual al detailViewModel con una variable para saber si es favorito o no . Los mensajes de alerta para reemplazar el error. 
+
+
+​​
